@@ -1,0 +1,8 @@
+inherit xfce4
+
+
+PATCH_URI="1.1.3-exo1.patch"
+
+DIFF_EXCLUDES="manual"
+
+CYGCONF_ARGS="--enable-xml2po --enable-xsltproc"
