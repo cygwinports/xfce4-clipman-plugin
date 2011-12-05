@@ -1,0 +1,4 @@
+inherit xfce4
+
+
+DIFF_EXCLUDES="manual"

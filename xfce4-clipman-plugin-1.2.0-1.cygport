@@ -1,6 +1,0 @@
-inherit xfce4
-
-
-DIFF_EXCLUDES="manual"
-
-CYGCONF_ARGS="--enable-xml2po --enable-xsltproc"
