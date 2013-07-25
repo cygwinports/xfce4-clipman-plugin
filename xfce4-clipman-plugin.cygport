@@ -1,0 +1,14 @@
+inherit xfce4
+
+NAME="xfce4-clipman-plugin"
+VERSION=1.2.3
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Xfce clipboard manager"
+DESCRIPTION="Clipboard Manager for the Xfce Panel and as a standalone
+application (it is a bundle). It keeps the clipboard contents around
+(even after an application quits), it is able to handle text and images,
+and has a feature to execute actions on specific text selection by matching
+them against regexes."
+
+DIFF_EXCLUDES="manual"
